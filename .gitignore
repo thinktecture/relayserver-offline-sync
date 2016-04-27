@@ -7,5 +7,4 @@ server/*
 !server/README.md
 client/platforms/
 client/plugins/
-client/resources/
-client/www/
+client/www/build/
