@@ -1,0 +1,11 @@
+node_modules
+connector/*
+!connector/
+!connector/README.md
+server/*
+!server/
+!server/README.md
+client/platforms/
+client/plugins/
+client/resources/
+client/www/
